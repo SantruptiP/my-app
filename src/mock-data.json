@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "fullName": "abc",
+      "address": "address 1",
+      "phoneNumber": "333-962-7516",
+      "email": "abcabc@email.com"
+    },
+    {
+      "id": 2,
+      "fullName": "def",
+      "address": "address 2",
+      "phoneNumber": "011-211-7516",
+      "email": "defdef@email.com"
+    },
+    {
+      "id": 3,
+      "fullName": "name1",
+      "address": "address 3",
+      "phoneNumber": "788-962-7516",
+      "email": "name1@email.com"
+    },
+    {
+      "id": 4,
+      "fullName": "xyz",
+      "address": "address 4",
+      "phoneNumber": "011-962-111",
+      "email": "xyzxyz@email.com"
+    },
+    {
+      "id": 5,
+      "fullName": "name2",
+      "address": "address 5",
+      "phoneNumber": "3231-962-7516",
+      "email": "name2@email.com"
+    }
+  ]
